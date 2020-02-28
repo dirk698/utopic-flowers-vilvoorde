@@ -53,9 +53,9 @@ a {
   position: relative;
 }
 .slidercat {
-  max-width: 100%;
+  width: 100%;
   height: auto;
-
+  display: block;
   min-height: 200px;
 }
 .caption {
